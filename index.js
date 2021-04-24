@@ -18,10 +18,12 @@ targetImage2.setAttribute("src", randomDiceNumber1);
 //Display winner
 if (randomNumber1 > randomNumber2){
   document.getElementsByTagName("h1")[0].innerHTML = "Player 1 Wins";
+  document.getElementsByClassName("p1")[0].innerHTML = "👑Player 1";
 }
 else if (randomNumber2 > randomNumber1) {
   document.getElementsByTagName("h1")[0].innerHTML = "Player 2 Wins";
+  document.getElementsByClassName("p2")[0].innerHTML = "Player 2👑";
 }
 else{
-  document.getElementsByTagName("h1")[0].innerHTML = "Draw"
+  document.getElementsByTagName("h1")[0].innerHTML = "👑Draw👑"
 }

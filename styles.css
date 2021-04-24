@@ -22,8 +22,15 @@ h1 {
   color: #ff6701;
 }
 
+h2{
+  font-family: "Indie Flower", cursive;
+  font-size: 1.5rem;
+  color: #fea82f;
+  margin-bottom: 0;
+}
+
 p {
-  font-size: 2rem;
+  font-size: 2.5rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
 }
@@ -37,5 +44,6 @@ footer {
   color: #ff6701;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+  font-size: 1.5rem;
 
 }
