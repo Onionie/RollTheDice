@@ -18,3 +18,6 @@ A simple dice roller created using HTML, CSS and JavaScript
 <img src = "https://github.com/Onionie/RollTheDice/blob/main/images/p1w.PNG">
 <img src = "https://github.com/Onionie/RollTheDice/blob/main/images/p2w.PNG">
 <img src = "https://github.com/Onionie/RollTheDice/blob/main/images/draw.PNG">
+
+#Deployment
+https://onionie.github.io/RollTheDice/
