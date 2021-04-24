@@ -15,8 +15,6 @@ A simple dice roller created using HTML, CSS and JavaScript
 - If both Player's dice are the same, then it is a draw.
 
 # Screenshots
-![](images/p1w.png)
-
-![](images/p2w.png)
-
-![](images/draw.png)
+<img src = "https://github.com/Onionie/RollTheDice/blob/main/images/p1w.PNG">
+<img src = "https://github.com/Onionie/RollTheDice/blob/main/images/p2w.PNG">
+<img src = "https://github.com/Onionie/RollTheDice/blob/main/images/draw.PNG">
