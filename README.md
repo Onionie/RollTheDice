@@ -1,7 +1,7 @@
 # Dice Game
 A simple dice roller created using HTML, CSS and JavaScript to manipulate the DOM and get our expected results.
 
-# What I learned
+# What I learned and Used
 - To create a simple dice roller using HTML, CSS, and JavaScript
 - JavaScript functions:
 	- Query selectors
