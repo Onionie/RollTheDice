@@ -1,5 +1,5 @@
 # Dice Game
-A simple dice roller created using HTML, CSS and JavaScript
+A simple dice roller created using HTML, CSS and JavaScript to manipulate the DOM and get our expected results.
 
 # What I learned
 - To create a simple dice roller using HTML, CSS, and JavaScript
@@ -14,7 +14,11 @@ A simple dice roller created using HTML, CSS and JavaScript
 - If Player 1's dice is less than Player 2's dice, then Player 2 wins
 - If both Player's dice are the same, then it is a draw.
 
+# Deployment
+https://onionie.github.io/RollTheDice/
+
 # Screenshots
 <img src = "https://github.com/Onionie/RollTheDice/blob/main/images/p1w.PNG">
 <img src = "https://github.com/Onionie/RollTheDice/blob/main/images/p2w.PNG">
 <img src = "https://github.com/Onionie/RollTheDice/blob/main/images/draw.PNG">
+
